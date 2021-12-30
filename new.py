@@ -1,0 +1,10 @@
+key='5f286387-255a-4aa4-ab1c-70562155ec59'
+app_name="raylaa1"
+deviceid="321E52729CCC822B2C570B67407D5881D32AA4F3425418E2AE3D210A2D39C2E41034EB3068903BE745"
+emaill="487yisby623n@xojxe.com"
+passwordd="91793632"
+custompwd="91793632"
+private=""
+chatlink="http://aminoapps.com/p/co1cwym"
+nickname="Ted"
+replit="https://int.raylasrn.repl.co"
